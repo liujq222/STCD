@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import os
 
 # ===================== 修改这里为你的图片路径 =====================
-img_path = r"D:\桌面\classwork\sctd\JPEGImages\000013.jpg"
+img_path = r"D:\桌面\classwork\sctd\JPEGImages\000001.jpg"
 # =================================================================
 
 # 1. PIL读取（兼容中文路径，解决cv2.imread中文路径bug）
